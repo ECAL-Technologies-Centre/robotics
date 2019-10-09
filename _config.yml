@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://ecal-technologies-centre.github.io/robotics/'
+url: 'https://ecal-technologies-centre.github.io/robotics'
 baseurl: '/'
 title: 'Photogrammetry - ECAL Technologies Centre'
 description: 'Usage of photogrammetry at ECAL.' 
