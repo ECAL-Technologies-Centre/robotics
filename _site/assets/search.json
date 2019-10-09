@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "//general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "//about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "//categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "//blog/"
+  },
+  
+  {
+    "title": "Quickstart",
+    "excerpt": "\n",
+    "content": "Photogrammetry is the technique of creating 3D models from 2D images. Example projects can be found in the C:/Examples directory.\n\nKnowledge Base\n\n  Image preparation and selection\n    \n      Good settings\n      Masking\n      Boosting contrast\n    \n  \n  Masking\n    \n      Creating and importing Photoshop masks\n    \n  \n  Photoscan process\n    \n      Image alignement\n      Cloud generation\n      Dense cloud generation\n      Mesh and texture generation\n      Optimisation with Simplygon\n    \n  \n\n\nSoftware\n\n  Agisoft Metashape\n  Simplygon\n\n",
+    "url": "//"
+  }
+  
+]
+
